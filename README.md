@@ -11,6 +11,9 @@ pinned: false
 ---
 ## 🚀 Live Demo
 👉 [Try the app here]- https://huggingface.co/spaces/Maasfa/Fake-News-Generator-Detection
+
+**Result:** Fake news detected with **79% confidence** on test articles.
+
 📰 Fake News: GPT-2 Generator & BERT Detector-
 
 This Jupyter Notebook contains the end-to-end implementation of a dual-purpose AI system. It explores the "Dual Role of AI" in modern media: using Generative AI to synthesize realistic misinformation and Discriminative AI to identify it.

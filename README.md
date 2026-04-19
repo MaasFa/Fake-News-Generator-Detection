@@ -1,3 +1,15 @@
+---
+title: Fake News GPT-2 Generator and BERT Detector
+emoji: 📰
+colorFrom: red
+colorTo: blue
+sdk: gradio
+sdk_version: "4.20.0"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 📰 Fake News: GPT-2 Generator & BERT Detector-
 
 This Jupyter Notebook contains the end-to-end implementation of a dual-purpose AI system. It explores the "Dual Role of AI" in modern media: using Generative AI to synthesize realistic misinformation and Discriminative AI to identify it.
